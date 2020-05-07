@@ -219,4 +219,8 @@
 
     <!-- aospb Version -->
     <string name="aospb_version">aosPB-Project version</string>
+
+    <!-- aosPB maintainer -->
+    <string name="maintainer">Maintainer</string>
+    <string name="aospb_maintainer" translatable="false">Unofficial Maintainer</string>
 </resources>
