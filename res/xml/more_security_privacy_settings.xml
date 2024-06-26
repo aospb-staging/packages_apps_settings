@@ -262,7 +262,7 @@
         android:summary="@string/screen_capture_controls_summary"
         android:defaultValue="false"/>
 
-    <com.android.settings.custom.preference.SecureSettingSwitchPreference
+    <com.android.settings.custom.preference.GlobalSettingSwitchPreference
         android:order="92"
         android:key="window_ignore_secure"
         android:title="@string/ignore_window_secure_title"
